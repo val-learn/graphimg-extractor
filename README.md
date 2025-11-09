@@ -5,7 +5,7 @@ B11104136 馮楊訓
 
 ## To make sure everything runs correctly:
 1. Download All File in this repository(including 期末專題圖檔.jpeg)
-2. Make sure every file is in the same firectory
+2. Make sure every file is in the same directory
 3. Open the directory in matlab
 4. Run the program one by one
 5. Follow the program instruction(Only for part A, since its a manual extractor)
