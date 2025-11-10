@@ -3,6 +3,12 @@ This is a matlab program that help extract point coordinates on images then it r
 ### Since this is a Undergraduate Final Project, to verify I own this repository, if you are my professor here is my Name and Student ID
 B11104136 馮楊訓
 
+## Program A Output
+<img width="1280" height="621" alt="PartA_Output" src="https://github.com/user-attachments/assets/bd5bf975-a3ed-4e83-9cd0-a3eeec9fd7a0" />
+
+## Program B output
+<img width="1280" height="614" alt="PartB_Output" src="https://github.com/user-attachments/assets/c8074c42-d93c-4a80-97c0-0b56071fff88" />
+
 ## To make sure everything runs correctly:
 1. Download All File in this repository(including 期末專題圖檔.jpeg)
 2. Make sure every file is in the same directory
