@@ -17,7 +17,7 @@ B11104136 馮楊訓
 5. Follow the program instruction(Only for part A, since its a manual extractor)
 
 ### Part B Code is created using the assistant of LLM / AI Specifically Claude Sonnet 4.5 by Anthropic, here are the link of the conversation with Claude:
-First Conversation: https://claude.ai/share/7ada7123-03e4-4c99-970f-aa4d6e1d93c5
+First Conversation: https://claude.ai/share/7ada7123-03e4-4c99-970f-aa4d6e1d93c5<br>
 Second Conversation: https://claude.ai/share/2f358de0-03e0-48ef-992e-52fff0a94a3f
 
 ## How the Code Determines Red Dots?
